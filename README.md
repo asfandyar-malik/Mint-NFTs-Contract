@@ -1,5 +1,14 @@
-# Basic Sample Hardhat Project
+# MINT NFT Collection
 
-This is the contract created for the NFT Marketplace code.  
+This project contains contract code to automatically generate a list of NFTs   
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.# Mint-NFTs-Contract
+
+
+
+✈️ A note on contract redeploys
+
+Let's say you want to change your contract. You'd need to do 3 things:
+
+You  need to deploy it again.
+You need to update the contract address on our frontend.
+You need to update the abi file on our frontend.
