@@ -7,12 +7,19 @@ You can run this program using:
 
 1. Run `npx hardhat run scripts/run.js` to run the project
 2. Run `npx hardhat run scripts/deploy.js --network rinkeby` to deploy the contract
+3. Run `npx hardhat verify YOUR_CONTRACT_ADDRESS --network rinkeby` to verify
+
+Everytime you do a deployment, you have to: 
+1. Redeploy.
+2. Update contract address in App.js.
+3. Update ABI file on the web app.
+
+You just need above commands to run deploy your contract and to connect to frontend code. All information below is just for information purposes. 
 
 Once contract is deployed, you can see it on [Etherscan](https://etherscan.io/)
 
 All the NFTs minted can be seen on [Rinkeby](https://rinkeby.rarible.com/user/0xe59c75bc2559b7cb088ea57deeaaf481942f863e/owned) 
 
-# Setup
 Complete setup for this project can be found at [Buildspace NFT Marketplace](https://app.buildspace.so/projects/CO961ddb5f-f428-4608-9949-a9a2f461eb3f)
 
 
