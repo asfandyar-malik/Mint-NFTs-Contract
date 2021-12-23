@@ -2,6 +2,15 @@
 
 This project contains contract code to automatically generate a list of NFTs   
 
+### **Welcome 👋**
+You can run this program using: 
+
+1. Run `npx hardhat run scripts/run.js` to run the project
+2. Run `npx hardhat run scripts/deploy.js --network rinkeby` to deploy the contract
+
+Once contract is deployed, you can see it on [Etherscan](https://etherscan.io/)
+
+All the NFTs minted can be seen on [Rinkeby](https://rinkeby.rarible.com/user/0xe59c75bc2559b7cb088ea57deeaaf481942f863e/owned) 
 
 # Setup
 Complete setup for this project can be found at [Buildspace NFT Marketplace](https://app.buildspace.so/projects/CO961ddb5f-f428-4608-9949-a9a2f461eb3f)
