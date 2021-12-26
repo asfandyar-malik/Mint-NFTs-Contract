@@ -2,6 +2,8 @@
 
 This project contains contract code to automatically generate a list of NFTs   
 
+Deployed Link: https://nft-starter-project.asfandyarmalik.repl.co/
+
 ### **Welcome 👋**
 You can run this program using: 
 
